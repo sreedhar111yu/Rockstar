@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "": true
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "debug.javascript.autoAttachFilter": "smart",
+    "liveServer.settings.port": 5501
+}
